@@ -1,0 +1,7 @@
+streamlit
+jobless
+langchain==0.1.7
+huggingface_hub==0.21.4
+langchain_community
+langchain_chroma
+sentence-transformers
